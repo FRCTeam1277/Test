@@ -20,6 +20,7 @@ public class Test1
 				+ "goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, "
 				+ "goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon");
 		will = "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOON";
+		System.out.println(will);
 	}
 
 }
