@@ -5,6 +5,8 @@ public class Test1
 
 	public static void main(String[] args)
 	{
+		System.out.println("Zoidberg says: Whoop whoop whoop whoop whoop.");
+		
 		System.out.println("He's a special one, Mr. Wall.");
 		String will = "goon";
 		if(will.equals("goon"))
