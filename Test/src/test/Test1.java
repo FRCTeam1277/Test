@@ -17,6 +17,7 @@ public class Test1
 		System.out.println("goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, "
 				+ "goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, "
 				+ "goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon");
+		will = "GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOON";
 	}
 
 }
