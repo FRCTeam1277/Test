@@ -14,6 +14,9 @@ public class Test1
 		else
 			System.out.println("Will is still a goon.");
 		System.out.println("I want be written");
+		System.out.println("goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, "
+				+ "goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, "
+				+ "goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon, goon");
 	}
 
 }
